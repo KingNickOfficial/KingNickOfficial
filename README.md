@@ -10,7 +10,7 @@ I've been coding for 1 and a half years, and I'm always looking to improve
 *   ✉️  You can contact me at [z00mdominat0r@gmail.com](mailto:z00mdominat0r@gmail.com)
 *   🧠  I'm learning C#
 *   🤝  I'm open to collaborating on Mods
-*   ⚡  Im a youtuber### Skills 
+*   ⚡  Im a youtuber and a rapper
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
