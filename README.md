@@ -4,13 +4,13 @@ Hi 👋 My name is King Nick
 Expert Unity Programmer
 -----------------------
 
-I've been coding for 1 and a half years, and I'm always looking to improve
+I've been coding for 2 and a half years, and I'm always looking to improve.
 
 *   🌍  I'm based in NY
 *   ✉️  You can contact me at [z00mdominat0r@gmail.com](mailto:z00mdominat0r@gmail.com)
 *   🧠  I'm learning C#
 *   🤝  I'm open to collaborating on Mods
-*   ⚡  Im a youtuber and a rapper
+*   ⚡  Im a youtuber and a parttime rapper to impress kids at my school, ig
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
